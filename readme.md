@@ -24,8 +24,9 @@ that, given an array A of length N, an integer F and an integer M, returns an ar
 
 #### Write an efficient algorithm for the following assumptions:
 
-```N and F are integers within the range [1..100,000];
+``` 
+N and F are integers within the range [1..100,000];
 each element of array A is an integer within the range [1..6];
 M is an integer within the range [1..6].
-Remember, all submissions are being checked for plagiarism. Your recruiter will be informed in case suspicious activity is detected.
+```
 
